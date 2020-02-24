@@ -11,4 +11,4 @@ It contains six modules currently available (there will be more coming soon):
 .
 .
 
-This is more to add below..
+There is more to add below..
